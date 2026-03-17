@@ -1,2 +1,2 @@
-# Real-estate-SQL-database
-MySQL-based real estate database
+# real-estate-sql-database-project
+This project presents the design and implementation of a Real Estate Property Management Database for a fictional agency called Berealty. The system was built using MySQL and includes database design, table creation, and advanced SQL queries to manage properties, clients, agents, and transactions. It also demonstrates concepts such as database normalization, JOIN operations, triggers, and the CAP theorem to support efficient real estate data management.
